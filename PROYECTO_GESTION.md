@@ -36,6 +36,19 @@ Estas historias de usuario se desarrollan para una aplicación sencilla de Lista
 **Implementación**
 - Función sugerida: `agregar_tarea(tareas, descripcion)`
 
+# HU-03: Marcar tarea como completada
+**Como** usuario,  
+**quiero** marcar una tarea como completada,  
+**para** identificar lo que ya terminé.
+
+**Criterios de aceptación**
+- Se puede cambiar el estado de una tarea existente.
+- Si el ID no existe, el sistema muestra un error.
+
+**Implementación**
+- Función sugerida: `completar_tarea(tareas, id_tarea)`
+
+
 
 
 # Sección 3: Evidencias y Retro
