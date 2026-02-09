@@ -47,6 +47,17 @@ Estas historias de usuario se desarrollan para una aplicación sencilla de Lista
 
 **Implementación**
 - Función sugerida: `completar_tarea(tareas, id_tarea)`
+# HU-04: Eliminar tarea
+**Como** usuario,  
+**quiero** eliminar una tarea existente,  
+**para** mantener mi lista actualizada.
+
+**Criterios de aceptación**
+- Se elimina una tarea por ID válido.
+- Si el ID no existe, no se realizan cambios.
+
+**Implementación**
+- Función sugerida: `eliminar_tarea(tareas, id_tarea)`
 
 
 
