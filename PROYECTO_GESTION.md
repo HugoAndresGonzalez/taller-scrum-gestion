@@ -84,3 +84,17 @@ Estas historias de usuario se desarrollan para una aplicación sencilla de Lista
 
 
 # Sección 3: Evidencias y Retro
+
+### ¿Qué fue lo más difícil de sincronizar?
+
+Lo más difícil de sincronizar fue integrar los cambios realizados en la rama principal (`main`) con los avances hechos en paralelo por los demás integrantes del equipo. En varios momentos se presentaron conflictos porque se modificaron los mismos archivos y secciones de código o texto, lo que impidió que Git resolviera automáticamente la fusión.
+
+---
+
+### ¿Cómo resolvieron los conflictos de código/texto?
+
+Los conflictos se resolvieron mediante un proceso manual y organizado. Primero, se identificaron los archivos en conflicto que Git señalaba durante el `merge` o `pull`. Luego, se revisaron cuidadosamente las diferencias entre versiones, comparando el código o el texto para decidir qué cambios conservar. En algunos casos se combinó información de ambas versiones para no perder aportes importantes. Finalmente, se verificó que todo funcionara correctamente y se confirmó la resolución con un commit, asegurando una correcta sincronización del proyecto.
+
+### Evidencias PR
+![PR](img/PR-1.png)
+![PR](img/PR-2.png)
