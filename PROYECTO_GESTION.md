@@ -24,6 +24,18 @@ Estas historias de usuario se desarrollan para una aplicación sencilla de Lista
 
 **Implementación**
 - Función sugerida: `agregar_tarea(tareas, descripcion)`
+# HU-02: Agregar tarea
+**Como** usuario,  
+**quiero** agregar una tarea escribiendo su descripción,  
+**para** guardar nuevos pendientes.
+
+**Criterios de aceptación**
+- Se permite agregar tareas con texto válido.
+- No se permiten tareas vacías.
+
+**Implementación**
+- Función sugerida: `agregar_tarea(tareas, descripcion)`
+
 
 
 # Sección 3: Evidencias y Retro
