@@ -59,6 +59,14 @@ Estas historias de usuario se desarrollan para una aplicación sencilla de Lista
 **Implementación**
 - Función sugerida: `eliminar_tarea(tareas, id_tarea)`
 
+## Tabla de Trazabilidad
+
+| ID Historia | Funcionalidad (Python) | Rama de Git | Estado |
+|------------|--------------------------|-------------|--------|
+| HU-01 | Mostrar tareas en consola | rama-historias | Finalizado |
+| HU-02 | Agregar tareas con input | rama-historias | Finalizado |
+| HU-03 | Completar tareas | rama-historias | Finalizado |
+| HU-04 | Eliminar tareas | rama-historias | Finalizado |
 
 
 
